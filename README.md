@@ -1,4 +1,4 @@
-# Instertion Sort Project
+# Insertion Sort Project
 It is mock-up project to understand how the insertion sorting algorithm work, presented in Kodluyoruz's 'Data Structure and Algorithms' lecture. 
 
 Sort the **[22,27,16,2,18,6]** in principles with insertion sorting.
