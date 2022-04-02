@@ -7,6 +7,7 @@ Sort the **[22,27,16,2,18,6]** in principles with insertion sorting.
 [2, 6, 22, 27, 16, 18] ➔ n-1  
 [2, 6, 16, 22, 27, 18] ➔ n-2  
 [2, 6, 16, 22, 18, 27] ➔ 1
+
  ---
  For an n numbered array, the formula to find the number of actions by the algorithm will be equal to (n^2+n)/2.
  In Big O notation, the dominant number is chosen by which operand affects the rate of growth most, without constant numbers. Thus, this sorting algorithm's Big O notation will be equal to ➔ O(n^2)
