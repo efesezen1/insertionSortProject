@@ -1,3 +1,5 @@
+[Click for my Patika.dev profile](https://app.patika.dev/pangloss)
+
 # Insertion Sort Project
 It is mock-up project to understand how the insertion sorting algorithm work, presented in Kodluyoruz's 'Data Structure and Algorithms' lecture. 
 
